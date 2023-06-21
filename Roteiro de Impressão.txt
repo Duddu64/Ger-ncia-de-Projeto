@@ -1,0 +1,33 @@
+Abra o ultilMaker Cura:
+
+Carregue o modelo 3D preparado no software ultilMaker Cura.
+Ajuste as configurações de impressão, como velocidade, temperatura do bico e espessura das camadas.
+Verifique as configurações de suporte e aderência à plataforma de impressão, se necessário.
+
+Preparação da impressora:
+
+Certifique-se de que a impressora 3D esteja corretamente conectada à fonte de alimentação.
+Verifique se a plataforma de impressão está limpa e nivelada.
+Certifique-se de que tenha filamento de impressão.
+
+
+
+
+
+Iniciar a impressão:
+
+Conecte o cartão SD à impressora.
+Clique em imprimir.
+Selecione o arquivo desejado.
+Clique em imprimir.
+Em seguida, clique em ajustes.
+Ajuste a temperatura do bico de acordo com o filamento utilizado (informações contidas no próprio filamento).
+Ajuste a temperatura da base de acordo com o filamento (informações contidas no próprio filamento).
+Monitore o progresso da impressão, observando atentamente as primeiras camadas para garantir que estejam sendo impressas corretamente.
+Evite mover ou tocar na impressora durante o processo de impressão.
+
+Pós-impressão:
+
+Após a conclusão da impressão, aguarde a plataforma de impressão e o objeto impresso esfriarem.
+Remova cuidadosamente o objeto impresso da plataforma.
+Limpe a base.
